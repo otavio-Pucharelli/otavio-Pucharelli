@@ -2,9 +2,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 hoje trabalho com front/back-end
 - 🌱 estudando CSharp e .NETCore
 - 😄 pronome: ele/dele
