@@ -6,7 +6,7 @@
 ### Linguagens e ferramentas
 <img align="left" alt="Otávio GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=otavio-Pucharelli&show_icons=true&hide_border=true&theme=dracula&count_private=true"/>
 <img align="left" alt="Otávio GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavio-Pucharelli&theme=dracula&langs_count=8&hide_border=true"/>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <i><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
