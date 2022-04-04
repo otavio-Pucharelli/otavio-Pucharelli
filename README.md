@@ -10,7 +10,6 @@
 <img align="left" alt="Otávio GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavio-Pucharelli&theme=dracula&langs_count=8&hide_border=true"/>
 
 
-<div>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <i class="devicon-javascript-plain colored"></i>
-</div>
+
+  <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
